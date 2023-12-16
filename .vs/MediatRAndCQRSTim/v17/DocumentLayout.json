@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E0CC6D82-F6D5-4884-92D6-FBD68E1B0BED}|DemoLibrary\\DemoLibrary.csproj|c:\\users\\uic35188\\source\\repos\\mediatrandcqrstim\\demolibrary\\handlers\\getpersonlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CC6D82-F6D5-4884-92D6-FBD68E1B0BED}|DemoLibrary\\DemoLibrary.csproj|solutionrelative:demolibrary\\handlers\\getpersonlisthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CC6D82-F6D5-4884-92D6-FBD68E1B0BED}|DemoLibrary\\DemoLibrary.csproj|c:\\users\\uic35188\\source\\repos\\mediatrandcqrstim\\demolibrary\\queries\\getpersonlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CC6D82-F6D5-4884-92D6-FBD68E1B0BED}|DemoLibrary\\DemoLibrary.csproj|solutionrelative:demolibrary\\queries\\getpersonlistquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B0F14FAE-4CA0-48DC-9BAE-EC6842466CFC}|BlazorUI\\BlazorUI.csproj|c:\\users\\uic35188\\source\\repos\\mediatrandcqrstim\\blazorui\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B0F14FAE-4CA0-48DC-9BAE-EC6842466CFC}|BlazorUI\\BlazorUI.csproj|solutionrelative:blazorui\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +58,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetPersonListHandler.cs",
+              "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoLibrary\\Handlers\\GetPersonListHandler.cs",
+              "RelativeDocumentMoniker": "DemoLibrary\\Handlers\\GetPersonListHandler.cs",
+              "ToolTip": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoLibrary\\Handlers\\GetPersonListHandler.cs",
+              "RelativeToolTip": "DemoLibrary\\Handlers\\GetPersonListHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-16T23:11:34.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "GetPersonListQuery.cs",
+              "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoLibrary\\Queries\\GetPersonListQuery.cs",
+              "RelativeDocumentMoniker": "DemoLibrary\\Queries\\GetPersonListQuery.cs",
+              "ToolTip": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoLibrary\\Queries\\GetPersonListQuery.cs",
+              "RelativeToolTip": "DemoLibrary\\Queries\\GetPersonListQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-16T23:08:06.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\BlazorUI\\_Imports.razor",
               "RelativeDocumentMoniker": "BlazorUI\\_Imports.razor",
@@ -58,24 +92,22 @@
               "RelativeToolTip": "BlazorUI\\_Imports.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-12-16T22:26:52.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-16T22:26:52.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "DemoLibrary",
               "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoLibrary\\DemoLibrary.csproj",
               "RelativeDocumentMoniker": "DemoLibrary\\DemoLibrary.csproj",
               "ToolTip": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoLibrary\\DemoLibrary.csproj",
               "RelativeToolTip": "DemoLibrary\\DemoLibrary.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2023-12-16T22:26:05.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-16T22:26:05.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "IDataAccess.cs",
               "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoLibrary\\DataAccess\\IDataAccess.cs",
               "RelativeDocumentMoniker": "DemoLibrary\\DataAccess\\IDataAccess.cs",
@@ -83,12 +115,11 @@
               "RelativeToolTip": "DemoLibrary\\DataAccess\\IDataAccess.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-16T22:25:20.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-16T22:25:20.527Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "PersonModel.cs",
               "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoLibrary\\Models\\PersonModel.cs",
               "RelativeDocumentMoniker": "DemoLibrary\\Models\\PersonModel.cs",
@@ -96,12 +127,11 @@
               "RelativeToolTip": "DemoLibrary\\Models\\PersonModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-16T21:22:28.207Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-16T21:22:28.207Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "DemoDataAccess.cs",
               "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoLibrary\\DataAccess\\DemoDataAccess.cs",
               "RelativeDocumentMoniker": "DemoLibrary\\DataAccess\\DemoDataAccess.cs",
@@ -109,12 +139,11 @@
               "RelativeToolTip": "DemoLibrary\\DataAccess\\DemoDataAccess.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-16T21:21:57.54Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-16T21:21:57.54Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.razor",
               "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\BlazorUI\\Pages\\Index.razor",
               "RelativeDocumentMoniker": "BlazorUI\\Pages\\Index.razor",
@@ -127,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\BlazorUI\\Program.cs",
               "RelativeDocumentMoniker": "BlazorUI\\Program.cs",
@@ -135,8 +164,7 @@
               "RelativeToolTip": "BlazorUI\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2023-12-16T21:05:03.391Z",
-              "EditorCaption": ""
+              "WhenOpened": "2023-12-16T21:05:03.391Z"
             }
           ]
         }
