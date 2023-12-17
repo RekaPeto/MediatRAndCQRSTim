@@ -1,4 +1,5 @@
-﻿using DemoLibrary.Models;
+﻿using DemoLibrary.Commands;
+using DemoLibrary.Models;
 using DemoLibrary.Queries;
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
@@ -34,8 +35,9 @@ namespace DemoApi.Controllers
         
         // POST api/<PersonController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public async Task<PersonModel> Post([FromBody] PersonModel value)
         {
+            return await _mediator.Send(new InsertPersonCommand(value.FirstName, value.LastName));
         }
     }
 }

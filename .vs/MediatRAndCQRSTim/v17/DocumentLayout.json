@@ -7,6 +7,22 @@
       "RelativeMoniker": "D:0:0:{FF4517D8-06C4-4B84-B3FF-35849CC94C04}|DemoApi\\DemoApi.csproj|solutionrelative:demoapi\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{FF4517D8-06C4-4B84-B3FF-35849CC94C04}|DemoApi\\DemoApi.csproj|c:\\users\\uic35188\\source\\repos\\mediatrandcqrstim\\demoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF4517D8-06C4-4B84-B3FF-35849CC94C04}|DemoApi\\DemoApi.csproj|solutionrelative:demoapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CC6D82-F6D5-4884-92D6-FBD68E1B0BED}|DemoLibrary\\DemoLibrary.csproj|c:\\users\\uic35188\\source\\repos\\mediatrandcqrstim\\demolibrary\\handlers\\insertpersonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CC6D82-F6D5-4884-92D6-FBD68E1B0BED}|DemoLibrary\\DemoLibrary.csproj|solutionrelative:demolibrary\\handlers\\insertpersonhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0CC6D82-F6D5-4884-92D6-FBD68E1B0BED}|DemoLibrary\\DemoLibrary.csproj|c:\\users\\uic35188\\source\\repos\\mediatrandcqrstim\\demolibrary\\commands\\insertpersoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0CC6D82-F6D5-4884-92D6-FBD68E1B0BED}|DemoLibrary\\DemoLibrary.csproj|solutionrelative:demolibrary\\commands\\insertpersoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F14FAE-4CA0-48DC-9BAE-EC6842466CFC}|BlazorUI\\BlazorUI.csproj|c:\\users\\uic35188\\source\\repos\\mediatrandcqrstim\\blazorui\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B0F14FAE-4CA0-48DC-9BAE-EC6842466CFC}|BlazorUI\\BlazorUI.csproj|solutionrelative:blazorui\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E0CC6D82-F6D5-4884-92D6-FBD68E1B0BED}|DemoLibrary\\DemoLibrary.csproj|c:\\users\\uic35188\\source\\repos\\mediatrandcqrstim\\demolibrary\\handlers\\getpersonbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E0CC6D82-F6D5-4884-92D6-FBD68E1B0BED}|DemoLibrary\\DemoLibrary.csproj|solutionrelative:demolibrary\\handlers\\getpersonbyidhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B0F14FAE-4CA0-48DC-9BAE-EC6842466CFC}|BlazorUI\\BlazorUI.csproj|c:\\users\\uic35188\\source\\repos\\mediatrandcqrstim\\blazorui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0F14FAE-4CA0-48DC-9BAE-EC6842466CFC}|BlazorUI\\BlazorUI.csproj|solutionrelative:blazorui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B0F14FAE-4CA0-48DC-9BAE-EC6842466CFC}|BlazorUI\\BlazorUI.csproj|c:\\users\\uic35188\\source\\repos\\mediatrandcqrstim\\blazorui\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B0F14FAE-4CA0-48DC-9BAE-EC6842466CFC}|BlazorUI\\BlazorUI.csproj|solutionrelative:blazorui\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0F14FAE-4CA0-48DC-9BAE-EC6842466CFC}|BlazorUI\\BlazorUI.csproj|c:\\users\\uic35188\\source\\repos\\mediatrandcqrstim\\blazorui\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -79,6 +91,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DemoApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DemoApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T19:55:23.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InsertPersonHandler.cs",
+              "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoLibrary\\Handlers\\InsertPersonHandler.cs",
+              "RelativeDocumentMoniker": "DemoLibrary\\Handlers\\InsertPersonHandler.cs",
+              "ToolTip": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoLibrary\\Handlers\\InsertPersonHandler.cs",
+              "RelativeToolTip": "DemoLibrary\\Handlers\\InsertPersonHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T19:47:00.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InsertPersonCommand.cs",
+              "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoLibrary\\Commands\\InsertPersonCommand.cs",
+              "RelativeDocumentMoniker": "DemoLibrary\\Commands\\InsertPersonCommand.cs",
+              "ToolTip": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoLibrary\\Commands\\InsertPersonCommand.cs",
+              "RelativeToolTip": "DemoLibrary\\Commands\\InsertPersonCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-17T19:43:19.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "GetPersonByIdHandler.cs",
               "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoLibrary\\Handlers\\GetPersonByIdHandler.cs",
               "RelativeDocumentMoniker": "DemoLibrary\\Handlers\\GetPersonByIdHandler.cs",
@@ -91,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "GetPersonByIdQuery.cs",
               "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoLibrary\\Queries\\GetPersonByIdQuery.cs",
               "RelativeDocumentMoniker": "DemoLibrary\\Queries\\GetPersonByIdQuery.cs",
@@ -110,14 +161,14 @@
               "RelativeDocumentMoniker": "DemoApi\\Controllers\\PersonController.cs",
               "ToolTip": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoApi\\Controllers\\PersonController.cs",
               "RelativeToolTip": "DemoApi\\Controllers\\PersonController.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwB0AAAAlAAAA",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwCUAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-17T18:12:31.861Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoApi\\Program.cs",
               "RelativeDocumentMoniker": "DemoApi\\Program.cs",
@@ -130,7 +181,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\BlazorUI\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazorUI\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\BlazorUI\\Pages\\Index.razor",
+              "RelativeToolTip": "BlazorUI\\Pages\\Index.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-12-16T21:12:57.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "DemoLibraryMediatREntrypoint.cs",
               "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoLibrary\\DemoLibraryMediatREntrypoint.cs",
               "RelativeDocumentMoniker": "DemoLibrary\\DemoLibraryMediatREntrypoint.cs",
@@ -143,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "GetPersonListHandler.cs",
               "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoLibrary\\Handlers\\GetPersonListHandler.cs",
               "RelativeDocumentMoniker": "DemoLibrary\\Handlers\\GetPersonListHandler.cs",
@@ -156,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "GetPersonListQuery.cs",
               "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoLibrary\\Queries\\GetPersonListQuery.cs",
               "RelativeDocumentMoniker": "DemoLibrary\\Queries\\GetPersonListQuery.cs",
@@ -169,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\BlazorUI\\Program.cs",
               "RelativeDocumentMoniker": "BlazorUI\\Program.cs",
@@ -182,20 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Index.razor",
-              "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\BlazorUI\\Pages\\Index.razor",
-              "RelativeDocumentMoniker": "BlazorUI\\Pages\\Index.razor",
-              "ToolTip": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\BlazorUI\\Pages\\Index.razor",
-              "RelativeToolTip": "BlazorUI\\Pages\\Index.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2023-12-16T21:12:57.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "_Imports.razor",
               "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\BlazorUI\\_Imports.razor",
               "RelativeDocumentMoniker": "BlazorUI\\_Imports.razor",
@@ -208,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "DemoDataAccess.cs",
               "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoLibrary\\DataAccess\\DemoDataAccess.cs",
               "RelativeDocumentMoniker": "DemoLibrary\\DataAccess\\DemoDataAccess.cs",
@@ -220,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "PersonModel.cs",
               "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoLibrary\\Models\\PersonModel.cs",
               "RelativeDocumentMoniker": "DemoLibrary\\Models\\PersonModel.cs",
@@ -232,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "IDataAccess.cs",
               "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoLibrary\\DataAccess\\IDataAccess.cs",
               "RelativeDocumentMoniker": "DemoLibrary\\DataAccess\\IDataAccess.cs",
@@ -244,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "DemoLibrary",
               "DocumentMoniker": "C:\\Users\\uic35188\\source\\repos\\MediatRAndCQRSTim\\DemoLibrary\\DemoLibrary.csproj",
               "RelativeDocumentMoniker": "DemoLibrary\\DemoLibrary.csproj",
