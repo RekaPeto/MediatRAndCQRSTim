@@ -20,7 +20,6 @@ namespace BlazorUI
 			builder.Services.AddServerSideBlazor();
 			builder.Services.AddSingleton<WeatherForecastService>();
 			builder.Services.AddSingleton<IDataAccess, DemoDataAccess>();
-			//builder.Services.AddMediatR(typeof(DemoLibraryMediatREntrypoint).Assembly);
             builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(typeof(DemoLibraryMediatREntrypoint).Assembly));
 
             var app = builder.Build();
